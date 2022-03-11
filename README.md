@@ -17,7 +17,7 @@ We also provide our train-test [splits](https://drive.google.com/drive/folders/1
 | AdUni | ISIC2018 | 87.1% | 79.0% | [model](https://drive.google.com/file/d/1XN-jyzkBCiYMGUYNHMj3hwusx6ROwh_G/view?usp=sharing) |
 | AdUni+upsample | ISIC2018 | 88.2% | 79.8% | [model](https://drive.google.com/file/d/1BjjxmuvIn23ZuLye52U0V3Xf3Q5rAbYX/view?usp=sharing) | 
 | AdUni | APTOS2019 | 83.3%  | 69.4%| [model](https://drive.google.com/file/d/13-mWo2_VHvU8CE5ObCQm7Y76m9VXLvus/view?usp=sharing) |
-| AdUni+upsample | APTOS2019 | - | - | - | 
+| AdUni+upsample | APTOS2019 | 83.9% | 71.1% | [model](https://drive.google.com/file/d/1ceGo_NYSqmp4jdTWg-GWjnDNpTxnvdp7/view?usp=sharing) | 
 
 Reference
 ====
