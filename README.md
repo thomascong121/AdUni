@@ -20,3 +20,10 @@ We provide trained models with AdUni and different sampling technics with one tr
 
 Reference
 ====
+@inproceedings{cong2022aduni,
+  title={Adaptive Unified Contrastive Learning for Imbalanced Classification},
+  author={Cong Cong, Yixing Yang, Sidong Liu, Maurice Pagnucco, Antonio DiIeva, Shlomo Berkovsky, Yang Song},
+  booktitle={International Workshop on Machine Learning in Medical Imaging},
+  year={2022},
+  organization={Springer}
+}
