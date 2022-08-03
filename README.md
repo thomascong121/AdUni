@@ -9,8 +9,7 @@ For testing the model, you may modify the `run.sh` file. Set `--resume` to True 
 
 Trained Packages
 ====
-We provide several trained models with AdUni and different sampling technics.
-We also provide our train-test [splits](https://drive.google.com/drive/folders/14eIMNuP2hqJKkJWF_McMKhsbzQpLmEj0?usp=sharing).
+We provide trained models with AdUni and different sampling technics with one train-test [splits](https://drive.google.com/drive/folders/14eIMNuP2hqJKkJWF_McMKhsbzQpLmEj0?usp=sharing).
 
 | method | Dataset | Test acc. | Test f1 | url |
 |-------------------|-------------------|---------------------|--------------------|--------------------|
