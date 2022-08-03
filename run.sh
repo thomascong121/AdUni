@@ -1,6 +1,6 @@
 #!/bin/bash
 
- python3 main_supcon_cl.py \
+ python3 main.py \
      --print_freq 20 \
      --batch_size 128 \
      --aug kaggle \
@@ -25,7 +25,7 @@
 
 
 ## train
-#python3 main_supcon_cl.py \
+#python3 main.py \
 #    --dataset ISIC \
 #    --data_folder ../ISIC\
 #    --model resnet18 \
